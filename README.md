@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yurii
+ 👋 Hi, I’m Yurii
 
 🧑‍💻 Building production-grade web applications since **2018**  
 🤖 Exploring **AI/LLMs** and real-world integrations  
