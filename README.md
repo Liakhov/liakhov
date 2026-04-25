@@ -1,8 +1,8 @@
- 👋 Hi, I’m Yurii
+👋 Hi, I'm Yurii
 
-🧑‍💻 Building production-grade web applications since **2018**  
-🤖 Exploring **AI/LLMs** and real-world integrations  
+🧑‍💻 Full-stack web engineer  
 🛠 TypeScript • Angular • Svelte • Node.js  
+🤖 Deep into AI agents, Claude Code, and AI-assisted development  
 🧠 Product-minded. Architecture-driven. Long-term focused.
 
 📫 Reach me → linkedin.com/in/yuriiliakhov
