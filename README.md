@@ -1,10 +1,10 @@
 # Hey, I'm Yurii 👋
 
-**Software Engineer · Products · Agentic Engineering**
+**Building software, products, and the tools behind them.**
 
-I'm a software engineer who builds products and the systems behind them. I work across the stack, primarily with **TypeScript, Angular, SvelteKit, and Node.js** — from shaping ideas and making technical decisions to shipping real software.
+I'm a software engineer working across the stack, primarily with **TypeScript, Angular, SvelteKit, and Node.js** — from shaping ideas and making technical decisions to shipping real software.
 
-My professional work spans **web platforms and agentic systems**.
+My background is in web platforms and product engineering, with experience in AI agent systems as well.
 
 Outside of work, I build my own products, experiment with developer tooling, and share what I learn along the way.
 
